@@ -2,7 +2,7 @@
 The project on the Database of the Restaurant order and Billing system has all the information related 
 to orders placed by the customer , customer details, chef and other employees and Bill (amount) details.
 
-# Case Study: 
+## Case Study: 
 Database design for Restaurant order and Bill Management.
 
 ## Aim: 
@@ -17,7 +17,7 @@ be provided with a particular table number) or to book an order i.e. a customer 
 order already and can pick the same in his given time.
 
 
-# Description:
+## Description:
 
 a) In a restaurant, there are many sections like receptionist, customer, bill, order food
 section, chef, and menu.
@@ -35,7 +35,7 @@ the customer, which includes the order's specifics and the total amount that mus
 
 
 
-# Functionalities:
+## Functionalities:
 
 • Database stores the information details of customer like name, ID, contact details and the
 order they place which includes time and date of order placed, order ID and food items present
